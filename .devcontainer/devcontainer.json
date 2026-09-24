@@ -1,0 +1,10 @@
+{
+  "name": "Practice Classroom Setup",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python"
+      ]
+    }
+  }
+}
